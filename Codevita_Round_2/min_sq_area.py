@@ -13,4 +13,4 @@ for _ in range(int(input())):
     l1=x2-x1
     l2=y2-y1
     
-    print(l1*l2)
+    print(max(l1,l2)**2)
